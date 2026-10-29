@@ -107,8 +107,6 @@ These sources motivate the risk areas and test approach. They do not validate th
 
 This repository has no external services or credentials. To review, clone/download the repository, install the dependency, run the app, and execute the tests using the commands above.
 
-## Individual contribution and AI assistance
-
 
 ## Individual Contribution and AI Assistance
 
