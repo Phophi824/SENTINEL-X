@@ -4,7 +4,7 @@
    A practical, explainable checkpoint for safer AI workflows.
 
 2. **Problem**  
-   Sensitive data can enter prompts; malicious instructions can manipulate AI workflows; outputs can be mishandled.
+   Sensitive data can enter prompts; malicious instructions can manipulate AI workflows; outputs can be used in a way that can lead to the user information being used for the wrong reseon, scammed or any other malicious acts.
 
 3. **Stakeholders and assets**  
    Employees, data owners, security/privacy teams, customers, and sensitive business information.
