@@ -55,6 +55,7 @@ python -m streamlit run app.py
 
 Open the local URL printed by Streamlit (normally `http://localhost:8501`).
 
+
 ## Run tests
 
 From the project root:
@@ -63,7 +64,7 @@ From the project root:
 python -m unittest discover -s tests -v
 ```
 
-Record the actual output and date of your test run in `docs/TEST_RESULTS.md`. Do not claim tests passed until you have run them yourself.
+The automated test suite was run locally. The recorded run completed with 9 tests passing, 0 failures, and 0 errors. See `docs/TEST_RESULTS.md` for the results and limitations.
 
 ## Example demonstration cases
 
