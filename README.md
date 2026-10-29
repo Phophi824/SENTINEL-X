@@ -109,4 +109,14 @@ This repository has no external services or credentials. To review, clone/downlo
 
 ## Individual contribution and AI assistance
 
-Complete this section honestly before submission. State which code, testing, research, writing, and design work you personally completed, and disclose any AI assistance according to the challenge rules. Be prepared to explain every major design decision.
+
+## Individual Contribution and AI Assistance
+
+This is an individual project developed with AI assistance. I worked on setting up and running the SENTINEL-X prototype locally, testing its functionality, reviewing the test results, and preparing the project submission.
+
+AI assistance was used to support coding, debugging, documentation, research organisation, and preparation of the pitch presentation. I am responsible for reviewing the submitted work and explaining the design, implementation, test results, and limitations. I will disclose AI assistance in accordance with the challenge requirements.
+
+The automated test suite was run locally and reported nine tests passing, with no failures or errors.
+
+SENTINEL-X is an educational prototype that uses rule-based checks and simulated data. It has not been independently security-audited and is not ready for production use.
+
