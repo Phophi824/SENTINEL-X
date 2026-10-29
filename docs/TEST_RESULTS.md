@@ -5,26 +5,26 @@
 
 ## Automated Unit Tests
 
-The automated test suite was run locally from the project environment.
+The automated test suite completed successfully in the local test environment.
 
-- **Date:** 29 October 2026 (confirm this matches the actual test run)
+- **Date:** 29 October 2026
 - **Operating system:** Windows
 - **Python version:** Not recorded
 - **Number of tests:** 9
 - **Passed:** 9
 - **Failed:** 0
 - **Errors:** 0
-- **Reported runtime:** 0.017 seconds
-- **Test command:**
-
-```bash
-python -m unittest discover -s tests -v
-```
+- **Reported runtime:** 0.002 seconds
+- **Test command:** `python -m unittest discover -s tests -v`
 
 - **Test output evidence:** `docs/INITIAL_TEST_RUN.txt`
 - **Screenshot evidence:** `screenshots/test-results.png`
 
-The reported test run completed successfully. The nine tests check selected expected behaviours, including permission boundaries, prompt-injection detection, sensitive-data screening, output checks, and protection of raw prompts in the audit record and Trust Decision Passport.
+All nine automated tests passed. The tests cover selected behaviours, including permission boundaries, prompt-injection detection, sensitive-data screening, output checks, and protection of raw prompts in the audit record and Trust Decision Passport.
+
+### Startup Warning
+
+The captured output included a spreadsheet-runtime warmup warning during Python startup. The unit tests nevertheless completed successfully, reporting nine tests and `OK`. The cause of the warning has not been established.
 
 ## Automated Test Cases
 
